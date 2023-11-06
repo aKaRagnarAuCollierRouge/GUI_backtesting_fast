@@ -1,0 +1,16 @@
+{
+    "valeurs_defaults": {
+        "words_exclure_backtesting": [
+            "Bilan de backtest",
+            "bilan de backtest",
+            "Bilan de backtesting",
+            "bilan de backtesting"
+        ],
+        "words_screenshot_colonne": [
+            "screenshot",
+            "Screen",
+            "Screenshot",
+            "screen"
+        ]
+    }
+}
